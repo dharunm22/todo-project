@@ -1,7 +1,7 @@
 # todo-project
 
 Hi Friends,
-Here, I am going to add screenshots for your reference to find how my web page looks by step by step.
+Here, I have added the app's screenshot for your reference to find how my web page looks.
 
 #1-My application's first page looks like the below picture:
 ![Screenshot (10)](https://user-images.githubusercontent.com/88827680/202388062-21b63a57-5aad-4de4-a976-02aa1655de7d.png)
